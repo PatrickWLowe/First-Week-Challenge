@@ -7,25 +7,26 @@
 body {
     background-color: #d9dcd6;
 }
-/* Changed the header from a class to a nav element */
+/* Changed the header from a class to a header element */
 
-nav {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-nav h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-nav h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
+/*changed the div element to a nav element*/
 
-nav div {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +34,11 @@ nav div {
     font-size: 20px;
 }
 
-nav div ul {
+nav ul {
     list-style-type: none;
 }
 
-nav div ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -125,7 +126,7 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Changed the footer from a class to an element and commbined the CSS for the footer */
+/* Changed the footer from a class to an element and combined the CSS for the footer */
 
 footer {
     padding: 30px;
