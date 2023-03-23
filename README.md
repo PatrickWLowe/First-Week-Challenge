@@ -1,6 +1,17 @@
 # First-Week-Challenge
-# Added html semantics to the page by replacing div with header, section, and footer
-# Removed the id that was connected to the Brand awareness png and Cost Managment png as they were already connected to their respective class
-# Added a Title of "Horiseon Marketing"
-# Consolidated h3 and h2 into one section in CSS
-## Added alt attributes to the photos, so they have descriptions
+
+## Refactoring
+
+### In this project I am refactoring a starter code, so that its web accessibility is smoother by making the following changes:
+
+* Consolidating the CSS
+* Changing class names in the html 
+* Changing the HTML to include semantics
+* Adding “alt” attributes to the images and icons 
+* Making sure the links work properly 
+
+## Deployed Website
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/Screenshot.png)
+
+### https://patrickwlowe.github.io/First-Week-Challenge/
