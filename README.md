@@ -4,7 +4,7 @@
 
 ### In this project I am refactoring a starter code, so that its web accessibility is smoother by making the following changes:
 
-* Consolidating the CSS
+* Consolidating and reorganized the CSS
 * Changing class names in the html that were redundant
 * Changing the HTML elements to include semantics HTML elements
 * Adding “alt” attributes to the images and icons 
@@ -20,7 +20,7 @@
 
 ## Getting Started
 
-### Make a clone of this repository in your local device using GitBash and SSH key for the repository found below:
+### Make a clone of this repository in your local device using GitBash or Terminal(Mac) and SSH key for the repository found below:
 
 ### https://github.com/PatrickWLowe/First-Week-Challenge
 
@@ -30,5 +30,6 @@
 ### https://www.w3schools.com/html/html5_semantic_elements.asp
 ### https://github.com/git-guides/git-push
 ### https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+### https://developer.mozilla.org/en-US/docs/Web/CSS
 
 
